@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @anish-indupuru
 - 👀 I’m interested in AI/ML using python and some amount of R and excel
-- 🌱 I’m currently learning AI/ML from IIIT B via upgrad
+- 🌱 I’m currently learning AI/ML from IIIT B 
 - 💞️ I’m looking to collaborate on AI/ML projects
 - 📫 How to reach me via email anish.indupuru@gmail.com
 
